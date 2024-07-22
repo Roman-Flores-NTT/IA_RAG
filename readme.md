@@ -1,5 +1,6 @@
 # Contador de Clicks
 
+
 Este proyecto es una aplicación simple desarrollada en Python utilizando la biblioteca Tkinter. El propósito de la aplicación es contar los clicks que un usuario realiza sobre un botón específico. Cada vez que el botón es presionado, un contador se incrementa y muestra el número actual de clicks en una interfaz gráfica.
 
 ## Características
